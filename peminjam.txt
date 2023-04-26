@@ -1,0 +1,1 @@
+{'peminjam': 'achmad', 'judul': 'Bumi Manusia', 'status': 'selesai', 'tanggal': '10-10-2023'}

@@ -1,0 +1,10 @@
+Nama : Achmad,Buku : The Simpsons,Tanggal Pinjam Y-m-d : 2023-10-2 
+Nama : muman,Buku : Harry Pother,Tanggal Pinjam Y-m-d : 2023-1-1
+Nama : Fadlan,Buku : Harry Pother,Tanggal Pinjam Y-m-d : 10-10-2022 
+Nama : fadlan,Buku : The Simpsons,Tanggal Pinjam Y-m-d :  2022-10-10
+Nama : rani,Buku : Harry Pother,Tanggal Pinjam Y-m-d : 2022-10-10 
+Nama : Yafik,Buku : Ninja Assasin,Tanggal Pinjam Y-m-d : 2023-1-1 
+Nama : Khansa,Buku : The Simpsons,Tanggal Pinjam Y-m-d : 2022-10-10 
+Nama : Atsal,Buku : Harry Pother,Tanggal Pinjam Y-m-d : 2023-2-10 
+Nama : Achmad,Buku : Harry Pother,Tanggal Pinjam Y-m-d : 2022-10-10 
+Nama : coba,Buku : Harry Pother,Tanggal Pinjam Y-m-d : 1/5/2022 
