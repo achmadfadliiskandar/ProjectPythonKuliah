@@ -1,0 +1,30 @@
+[
+    {
+        "author":"orang",
+        "id":0,
+        "first_sentence":"the coldship itself was dreamless",
+        "title":"A Fire Upon the deep",
+        "year_published":1972
+    },
+    {
+        "author":"messi",
+        "id":1,
+        "first_sentence":"sebuah kemenangan argentina",
+        "title":"meraih mimpi piala dunia 2022",
+        "year_published":2022
+    },
+    {
+        "author":"ronaldo",
+        "id":2,
+        "first_sentence":"akhirnya ronaldo menjuarai euro 2022",
+        "title":"meraih juara euro 2020",
+        "year_published":2020
+    },
+    {
+        "author":"kopassus",
+        "id":3,
+        "first_sentence":"komando pasukan khusus",
+        "title":"kejayaan misi pembebasan sandra di papua",
+        "year_published":1999
+    }
+]
